@@ -26,3 +26,7 @@ Con los demas hacemos lo mismo:
 ## Tercero
 
 <img width="1302" height="547" alt="image" src="https://github.com/user-attachments/assets/1b128f5d-a193-4d46-98bb-e28e01357038" />
+
+## Cuarto
+
+<img width="1339" height="693" alt="image" src="https://github.com/user-attachments/assets/63efe375-a9eb-4d8c-8589-714cd441c826" />
