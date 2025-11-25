@@ -37,7 +37,7 @@ Con los demas hacemos lo mismo:
 
 ## Sexto
 
-<img width="1279" height="737" alt="Captura de pantalla 2025-11-25 201407" src="https://github.com/user-attachments/assets/b34b3ff5-a02c-4b3d-b83a-47a6cebb7bb8" />
+<img width="1166" height="688" alt="image" src="https://github.com/user-attachments/assets/45d11736-0bfa-42e5-95ad-77fa768956b1" />
 
 ## Septimo
 
