@@ -33,7 +33,7 @@ Con los demas hacemos lo mismo:
 
 ## Quinto
 
-<img width="1394" height="780" alt="image" src="https://github.com/user-attachments/assets/ca4c6c5d-a8a6-4da2-89fc-84ab80f70438" />
+<img width="1483" height="782" alt="image" src="https://github.com/user-attachments/assets/b59f2a5c-d847-4e32-b3bf-6b91ba6f3968" />
 
 ## Sexto
 
