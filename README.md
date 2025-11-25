@@ -3,46 +3,47 @@
 ## Primero
 Primero creamos una nueva base de datos desde cero y al levantarlo deberia de salir nuestra ventana de Odoo con nuestra localhost8069 (importante marcar Demo Data)
 
-<img width="1289" height="657" alt="image" src="https://github.com/user-attachments/assets/f1d3650c-be88-42b2-93b4-4b662e2e5b22" />
+<img width="1289" height="657" alt="Captura de pantalla 2025-11-25 194711" src="https://github.com/user-attachments/assets/a70bef59-a275-4cc2-9ea2-a29ae253775a" />
 
-<img width="1156" height="725" alt="image" src="https://github.com/user-attachments/assets/1758c1fd-0ab5-4931-981e-2ca00ecdd3d3" />
+<img width="1156" height="725" alt="Captura de pantalla 2025-11-25 195225" src="https://github.com/user-attachments/assets/40ef1a45-87b5-446d-b8b5-7b336cebc10a" />
 
 Al entrar a Odoo lo primero que vamos a hacer es activar en las aplicaciones Contactos y Facturacion
 
-<img width="456" height="206" alt="image" src="https://github.com/user-attachments/assets/b92d604d-0ad4-4474-a483-e1c62c2ab37d" />
+<img width="456" height="206" alt="Captura de pantalla 2025-11-25 195537" src="https://github.com/user-attachments/assets/890f54d1-0ca3-4598-9163-4c5b1a6533f6" />
 
 
 ## Segundo
 
 Iniciamos sesion en PgAdmin y al buscar nuestra bases de datos vamos a odoo > Schemas > Tables > Query Tools
 
-<img width="1379" height="781" alt="image" src="https://github.com/user-attachments/assets/0a21df34-a8ed-4229-8b07-e57a536e4785" />
+<img width="1379" height="781" alt="Captura de pantalla 2025-11-25 200130" src="https://github.com/user-attachments/assets/e46b9d58-7120-4d55-a9e4-ac76624b9a2a" />
 
 Creamos el query y le damos al play
-<img width="1333" height="593" alt="image" src="https://github.com/user-attachments/assets/4e17afea-87f8-4bbc-b447-d6704218c701" />
+<img width="1333" height="593" alt="Captura de pantalla 2025-11-25 200906" src="https://github.com/user-attachments/assets/13b90de8-fc25-4f39-9031-58e696ed3c76" />
 
 Con los demas hacemos lo mismo:
 
 ## Tercero
 
-<img width="1302" height="547" alt="image" src="https://github.com/user-attachments/assets/1b128f5d-a193-4d46-98bb-e28e01357038" />
+<img width="1302" height="547" alt="Captura de pantalla 2025-11-25 200807" src="https://github.com/user-attachments/assets/afa30195-2648-469b-854a-5d0b7cd0b413" />
 
 ## Cuarto
 
-<img width="1339" height="693" alt="image" src="https://github.com/user-attachments/assets/63efe375-a9eb-4d8c-8589-714cd441c826" />
+<img width="1339" height="693" alt="Captura de pantalla 2025-11-25 201107" src="https://github.com/user-attachments/assets/6c24ba41-5d19-4db2-9ba5-8d587066c0fa" />
 
 ## Quinto
 
-<img width="1483" height="782" alt="image" src="https://github.com/user-attachments/assets/b59f2a5c-d847-4e32-b3bf-6b91ba6f3968" />
+<img width="1295" height="723" alt="image" src="https://github.com/user-attachments/assets/60045358-c94c-4779-bd44-6da260c8a621" />
 
 ## Sexto
 
-<img width="1279" height="737" alt="image" src="https://github.com/user-attachments/assets/5583e16d-5975-4933-87c6-d974e4905ab7" />
+<img width="1279" height="737" alt="Captura de pantalla 2025-11-25 201407" src="https://github.com/user-attachments/assets/b34b3ff5-a02c-4b3d-b83a-47a6cebb7bb8" />
 
 ## Septimo
 
-<img width="1288" height="696" alt="image" src="https://github.com/user-attachments/assets/0f52dc10-d191-452c-a744-2268169aef9e" />
+<img width="1288" height="696" alt="Captura de pantalla 2025-11-25 201543" src="https://github.com/user-attachments/assets/24002806-5681-4982-96b0-df8ba161d385" />
 
 ## Octavo
 
-<img width="1523" height="623" alt="image" src="https://github.com/user-attachments/assets/1651149a-d73f-412c-aac6-f16dceef4413" />
+<img width="1523" height="623" alt="Captura de pantalla 2025-11-25 211920" src="https://github.com/user-attachments/assets/252df84d-93f5-4418-9967-5aacfe7c888e" />
+
