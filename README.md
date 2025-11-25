@@ -38,3 +38,7 @@ Con los demas hacemos lo mismo:
 ## Sexto
 
 <img width="1279" height="737" alt="image" src="https://github.com/user-attachments/assets/5583e16d-5975-4933-87c6-d974e4905ab7" />
+
+## Septimo
+
+<img width="1288" height="696" alt="image" src="https://github.com/user-attachments/assets/0f52dc10-d191-452c-a744-2268169aef9e" />
