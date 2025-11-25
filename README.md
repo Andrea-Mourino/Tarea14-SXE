@@ -23,3 +23,6 @@ Creamos el query y le damos al play
 
 Con los demas hacemos lo mismo:
 
+## Tercero
+
+<img width="1302" height="547" alt="image" src="https://github.com/user-attachments/assets/1b128f5d-a193-4d46-98bb-e28e01357038" />
