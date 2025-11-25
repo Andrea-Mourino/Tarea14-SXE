@@ -42,3 +42,7 @@ Con los demas hacemos lo mismo:
 ## Septimo
 
 <img width="1288" height="696" alt="image" src="https://github.com/user-attachments/assets/0f52dc10-d191-452c-a744-2268169aef9e" />
+
+## Octavo
+
+<img width="1523" height="623" alt="image" src="https://github.com/user-attachments/assets/1651149a-d73f-412c-aac6-f16dceef4413" />
